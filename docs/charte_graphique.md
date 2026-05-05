@@ -1,4 +1,4 @@
-# Charte graphique - NovaTech Solutions
+# Charte graphique 
 
 ## Couleurs
 - Primaire : #8c1c13
