@@ -12,6 +12,7 @@
 - Corps : Libre Baskerville
 
 ## Logo
+- Fichier :
 - <img width="2000" height="2000" alt="Carnation cosmetic" src="https://github.com/user-attachments/assets/2be73ade-cd95-4e19-ac7b-7a2633d32a8d" />
 
 ## Utilisation
