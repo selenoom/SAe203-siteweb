@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "prenom": "Pomeroy",
+    "nom": "Marquis",
+    "fonction": "Développeur",
+    "email": "PomeroyMarquis@dayrep.com",
+    "photo": "PomeroyMarquis.jpg",
+    "bio": "développeur"
+  },
+  {
+    "id": 2,
+    "prenom": "Amzury",
+    "nom": "Lampron",
+    "fonction": "Cmmercial",
+    "email": "AmauryLampron@jourrapide.com",
+    "photo": "AmauryLampron.jpg",
+    "bio": "commercial"
+  },
+  {
+    "id": 3,
+    "prenom": "Maurelle",
+    "nom": "Lapointe",
+    "fonction": "Responsable RH",
+    "email": "MaurelleLapointe@jourrapide.com",
+    "photo": "MaurelleLapointe.jpg",
+    "bio": "rh"
+  },
+  {
+    "id": 4,
+    "prenom": "Solaine",
+    "nom": "Lacharité",
+    "fonction": "Directrice",
+    "email": "SolaineLapointe@armyspy.com",
+    "photo": "SolaineLacharité.jpg",
+    "bio": "Directrice"
+  },
+  {
+    "id": 5,
+    "prenom": "Amber", 
+    "nom": "Parmentier",
+    "fonction": "Développeur",
+    "email": "AmberParmentier@jourrapide.com",
+    "photo": "AmberParmentier.jpg",
+    "bio": "Développeur"
+  },
+  {
+    "id": 6,
+    "prenom": "Namo",
+    "nom": "Vachon",
+    "fonction": "Comptable",
+    "email": "NamoVachon@teleworm.us",
+    "photo": "NamoVachon.jpg",
+    "bio": "comptable"
+  },
+  {
+    "id": 7,
+    "prenom": "Roslyn",
+    "nom": "Pelland",
+    "fonction": "Responsable marketing",
+    "email": "RoslynPelland@armyspy.com",
+    "photo": "RoslynPelland.jpg",
+    "bio": "responsable marketing"
+  },
+  {
+    "id": 8,
+    "prenom": "Heloise",
+    "nom": "Gendron",
+    "fonction": "Responsable boutique",
+    "email": "HeloiseGendron@armyspy.com",
+    "photo": "HeloiseGendron.jpg",
+    "bio": "responsable boutique"
+  },
+  {
+    "id": 9,
+    "prenom": "Paulette",
+    "nom": "St-jacques",
+    "fonction": "Cosmétologue",
+    "email": "Paulette.stjacques@dayrep.com",
+    "photo": "Paulette.stjaques.jpg",
+    "bio": "cosmétologue"
+  },
+  {
+    "id": 10,
+    "prenom": "Pauline",
+    "nom": "Perreault",
+    "fonction": "Conseillère en image",
+    "email": "PaulinePerreault@jourrapide.com",
+    "photo": "Pauline.Perreault.jpg",
+    "bio": "conseillère en image"
+  },
+  {
+    "id": 11,
+    "prenom": "Logistilla",
+    "nom": "Blanchard",
+    "fonction": "Laborantine",
+    "email": "LogistillaBlanchard@dayrep.com",
+    "photo": "Logistilla.Blanchard.jpg",
+    "bio": "laborantine"
+  },
+  {
+    "id": 12,
+    "prenom": "Jacques",
+    "nom": "Larocque",
+    "fonction": "Chargé de communication",
+    "email": "JacquesLarocque@jourrapide.com",
+    "photo": "Jacques.Larocque.jpg",
+    "bio": "chargé de communication"
+  }
+]
