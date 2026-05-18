@@ -1,0 +1,44 @@
+```json
+[
+  {
+    "id": 1,
+    "nom": "TechCorp",
+    "secteur": "Infrastructure informatique",
+    "description": "TechCorp est notre partenaire principal pour la fourniture de serveurs et d'équipements réseau depuis 2018.",
+    "logo": ,
+    "site_web": "https://techcorp-fictif.fr"
+  },
+  {
+    "id": 2,
+    "nom": "WebAgence",
+    "secteur": "Design et communication",
+    "description": "WebAgence nous accompagne sur les projets de communication visuelle et de branding.",
+    "logo": ,
+    "site_web": "https://webagence-fictif.fr"
+  }
+    {
+    "id": 3,
+    "nom": "Naturito",
+    "secteur": "Naturopathie",
+    "description": "Naturito est une entreprise de plantes et de burrito qui nous supporte dans notre démarche de bien-être.",
+    "logo": 
+    "site_web": "https://Naturito-fictif.fr"
+  },
+  {
+    "id": 4,
+    "nom": "sorori'tea",
+    "secteur": "Salon de thé",
+    "description": "Sorori'tea est un salon de thé qui privilégie le confort et l'apaisement de femmes en situation de stress, ce qui en fait un partenaire qui convient parfaitement à nos valeurs et à nos directives.",
+    "logo": ,
+    "site_web": "https://sorori'tea-fictif.fr"
+  }
+  {
+    "id": 5,
+    "nom": "comme chat",
+    "secteur": "Infrastructure engagée dans la protection des animaux",
+    "description": "comme chat combat les pratiques cruelles dans la cosmétologie envers les animaux.",
+    "logo": ,
+    "site_web": "https://comme-chat-fictif.fr"
+  }
+]
+```
