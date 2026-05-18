@@ -5,7 +5,7 @@
     "nom": "Marquis",
     "fonction": "Développeur",
     "email": "PomeroyMarquis@dayrep.com",
-    "photo": "PomeroyMarquis.jpg",
+    "photo": "P-Marquis.png",
     "bio": "développeur"
   },
   {
@@ -14,7 +14,7 @@
     "nom": "Lampron",
     "fonction": "Cmmercial",
     "email": "AmauryLampron@jourrapide.com",
-    "photo": "AmauryLampron.jpg",
+    "photo": "A-Lampron.png",
     "bio": "commercial"
   },
   {
@@ -23,7 +23,7 @@
     "nom": "Lapointe",
     "fonction": "Responsable RH",
     "email": "MaurelleLapointe@jourrapide.com",
-    "photo": "MaurelleLapointe.jpg",
+    "photo": "M-Lapointe.png",
     "bio": "rh"
   },
   {
@@ -32,7 +32,7 @@
     "nom": "Lacharité",
     "fonction": "Directrice",
     "email": "SolaineLapointe@armyspy.com",
-    "photo": "SolaineLacharité.jpg",
+    "photo": "S-Lacharite.png",
     "bio": "Directrice"
   },
   {
@@ -41,7 +41,7 @@
     "nom": "Parmentier",
     "fonction": "Développeur",
     "email": "AmberParmentier@jourrapide.com",
-    "photo": "AmberParmentier.jpg",
+    "photo": "A-Parmentier.png",
     "bio": "Développeur"
   },
   {
@@ -50,7 +50,7 @@
     "nom": "Vachon",
     "fonction": "Comptable",
     "email": "NamoVachon@teleworm.us",
-    "photo": "NamoVachon.jpg",
+    "photo": "N-Vachon.png",
     "bio": "comptable"
   },
   {
@@ -59,7 +59,7 @@
     "nom": "Pelland",
     "fonction": "Responsable marketing",
     "email": "RoslynPelland@armyspy.com",
-    "photo": "RoslynPelland.jpg",
+    "photo": "R-Pelland.png",
     "bio": "responsable marketing"
   },
   {
@@ -68,16 +68,16 @@
     "nom": "Gendron",
     "fonction": "Responsable boutique",
     "email": "HeloiseGendron@armyspy.com",
-    "photo": "HeloiseGendron.jpg",
+    "photo": "H-Gendron.png",
     "bio": "responsable boutique"
   },
   {
     "id": 9,
     "prenom": "Paulette",
-    "nom": "St-jacques",
+    "nom": "St-Jacques",
     "fonction": "Cosmétologue",
     "email": "Paulette.stjacques@dayrep.com",
-    "photo": "Paulette.stjaques.jpg",
+    "photo": "P-St-Jacques.png",
     "bio": "cosmétologue"
   },
   {
@@ -86,7 +86,7 @@
     "nom": "Perreault",
     "fonction": "Conseillère en image",
     "email": "PaulinePerreault@jourrapide.com",
-    "photo": "Pauline.Perreault.jpg",
+    "photo": "P-Perreault.png",
     "bio": "conseillère en image"
   },
   {
@@ -95,7 +95,7 @@
     "nom": "Blanchard",
     "fonction": "Laborantine",
     "email": "LogistillaBlanchard@dayrep.com",
-    "photo": "Logistilla.Blanchard.jpg",
+    "photo": "L-Blanchard.png",
     "bio": "laborantine"
   },
   {
@@ -104,7 +104,16 @@
     "nom": "Larocque",
     "fonction": "Chargé de communication",
     "email": "JacquesLarocque@jourrapide.com",
-    "photo": "Jacques.Larocque.jpg",
+    "photo": "J-Larocque.png",
+    "bio": "chargé de communication"
+  },
+  {
+    "id": 13,
+    "prenom": "Philipe",
+    "nom": "Duplessis",
+    "fonction": "Responsable informatique",
+    "email": "PhilipeDuplessis@jourrapide.com",
+    "photo": "P-Duplessis.png",
     "bio": "chargé de communication"
   }
 ]
