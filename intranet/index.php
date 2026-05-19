@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+
 <?php
 require_once 'includes/auth.php'; //vérifier les chemins 
 requireConnexion();
@@ -5,6 +8,7 @@ requireConnexion();
 require_once 'includes/functions.php'; 
 afficherHeaderEtNavbar();
 ?>
+<body>
     <div class="container">
         <div class="row g-4">
             <div class="col-md-4"><div class="card p-3 shadow-sm text-center"><h5>Annuaire</h5><a href="pages/annuaire.php" class="btn btn-outline-primary">Ouvrir</a></div></div>
