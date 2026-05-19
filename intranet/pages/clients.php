@@ -32,10 +32,15 @@ $clients = lireJson('clients.json');
                 foreach ($clients as $unClient) { 
                 ?>
                     <tr>
-                        <td class="fw-bold text-dark"><?php echo $unClient['entreprise']; ?></td>
-                        <td><?php echo $unClient['contact']; ?></td>
+                        <td class="fw-bold text-dark"><?php echo $unClient['nom']; ?></td>
+                        <td><?php echo $unClient['prénom']; ?></td>
                         <td><?php echo $unClient['telephone']; ?></td>
                         <td><a href="mailto:<?php echo $unClient['email']; ?>"><?php echo $unClient['email']; ?></a></td>
+                        <td><?php echo $unClient['telephone']; ?></td>
+                        <td><?php echo $unClient['adresse']; ?></td>
+                        <td><?php echo $unClient['code_postl']; ?></td>
+                        <td><?php echo $unClient['ville']; ?></td>
+                        <td><?php echo $unClient['pays']; ?></td>
                     </tr>
                 <?php 
                 } 
