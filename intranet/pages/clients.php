@@ -16,13 +16,14 @@ $clients = lireJson('clients.json');
         <table class="table table-striped table-hover align-middle mb-0">
             <thead class="table-primary">
                 <tr>
-                    <th>Nom de l'Entreprise</th>
-                    <th>Contact principal</th>
+                    <th>Nom</th>
+                    <th>Prénom</th>
+                    <th>Email</th>
                     <th>Téléphone</th>
-                    <th>Email</th>
-                    <th>Email</th>
-                    <th>Email</th>
-                    <th>Email</th>
+                    <th>Adresse</th>
+                    <th>Code postal</th>
+                    <th>ville</th>
+                    <th>Pays</th>
                 </tr>
             </thead>
             <tbody>
