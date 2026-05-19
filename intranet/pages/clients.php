@@ -33,12 +33,11 @@ $clients = lireJson('clients.json');
                 ?>
                     <tr>
                         <td class="fw-bold text-dark"><?php echo $unClient['nom']; ?></td>
-                        <td><?php echo $unClient['prénom']; ?></td>
+                        <td><?php echo $unClient['prenom']; ?></td>
                         <td><?php echo $unClient['telephone']; ?></td>
                         <td><a href="mailto:<?php echo $unClient['email']; ?>"><?php echo $unClient['email']; ?></a></td>
-                        <td><?php echo $unClient['telephone']; ?></td>
                         <td><?php echo $unClient['adresse']; ?></td>
-                        <td><?php echo $unClient['code_postl']; ?></td>
+                        <td><?php echo $unClient['code_postal']; ?></td>
                         <td><?php echo $unClient['ville']; ?></td>
                         <td><?php echo $unClient['pays']; ?></td>
                     </tr>
