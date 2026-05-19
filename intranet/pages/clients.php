@@ -20,6 +20,9 @@ $clients = lireJson('clients.json');
                     <th>Contact principal</th>
                     <th>Téléphone</th>
                     <th>Email</th>
+                    <th>Email</th>
+                    <th>Email</th>
+                    <th>Email</th>
                 </tr>
             </thead>
             <tbody>
