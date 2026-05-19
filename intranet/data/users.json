@@ -1,0 +1,40 @@
+```json
+[
+  {
+    "id": 1,
+    "login": "admin",
+    "password": "bonjour",
+    "nom": "Administrateur",
+    "prenom": "Super",
+    "email": "admin@novatech.fr",
+    "groupes": ["admin", "direction"]
+  },
+  {
+    "id": 2,
+    "login": "manager1",
+    "password": "HASH_A_GENERER",
+    "nom": "Bernard",
+    "prenom": "Claire",
+    "email": "claire.bernard@novatech.fr",
+    "groupes": ["managers", "salaries"]
+  },
+  {
+    "id": 3,
+    "login": "employe1",
+    "password": "HASH_A_GENERER",
+    "nom": "Petit",
+    "prenom": "Lucas",
+    "email": "lucas.petit@novatech.fr",
+    "groupes": ["salaries"]
+  },
+  {
+    "id": 4,
+    "login": "directeur1",
+    "password": "HASH_A_GENERER",
+    "nom": "Dubois",
+    "prenom": "Sophie",
+    "email": "sophie.dubois@novatech.fr",
+    "groupes": ["direction", "managers"]
+  }
+]
+```
