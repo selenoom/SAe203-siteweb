@@ -96,7 +96,7 @@
     "fonction": "Laborantine",
     "email": "LogistillaBlanchard@dayrep.com",
     "photo": "L-Blanchard.png",
-    "bio": "laborantine"
+    "bio": "Laborantine"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "fonction": "Chargé de communication",
     "email": "JacquesLarocque@jourrapide.com",
     "photo": "J-Larocque.png",
-    "bio": "chargé de communication"
+    "bio": "Chargé de communication"
   },
   {
     "id": 13,
@@ -114,6 +114,6 @@
     "fonction": "Responsable informatique",
     "email": "PhilipeDuplessis@jourrapide.com",
     "photo": "P-Duplessis.png",
-    "bio": "chargé de communication"
+    "bio": "Responsable informatique"
   }
 ]
