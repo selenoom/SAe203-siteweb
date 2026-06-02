@@ -3,7 +3,7 @@
   {
     "id": 1,
     "login": "admin",
-    "password": "bonjour",
+    "password": "$2y$10$7R7XubK8p16Ym3MlhbCfZexLgZl7N1VvGzZ89b3Xh4E2901234567",
     "nom": "Administrateur",
     "prenom": "Super",
     "email": "admin@novatech.fr",
