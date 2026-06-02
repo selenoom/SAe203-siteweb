@@ -16,8 +16,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $password = $_POST['password'] ?? '';
 
     foreach ($users as $u) {
-        
-        if ($u['login'] === $login && $u['password'] === $password) {
+
+        if ($u['login'] === $login && password_verify($password, $u['password'])) {
             $_SESSION['user_id'] = $u['id'];
             $_SESSION['user_login'] = $u['login'];
             $_SESSION['user_nom'] = $u['prenom'] . ' ' . $u['nom'];
