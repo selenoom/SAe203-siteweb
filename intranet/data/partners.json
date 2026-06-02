@@ -4,7 +4,7 @@
     "nom": "TechCorp",
     "secteur": "Infrastructure informatique",
     "description": "TechCorp est notre partenaire principal pour la fourniture de serveurs et d'équipements réseau depuis 2018.",
-    "logo": ,
+    "logo":"SAe203-siteweb/img/techcorp.png" ,
     "site_web": "https://techcorp-fictif.fr"
   },
   {
@@ -12,7 +12,7 @@
     "nom": "WebAgence",
     "secteur": "Design et communication",
     "description": "WebAgence nous accompagne sur les projets de communication visuelle et de branding.",
-    "logo": ,
+    "logo": "SAe203-siteweb/img/Webagence.png" ,
     "site_web": "https://webagence-fictif.fr"
   }
     {
@@ -20,7 +20,7 @@
     "nom": "Naturito",
     "secteur": "Naturopathie",
     "description": "Naturito est une entreprise de plantes et de burrito qui nous supporte dans notre démarche de bien-être.",
-    "logo": 
+    "logo": "SAe203-siteweb/img/naturito.png" ,
     "site_web": "https://Naturito-fictif.fr"
   },
   {
@@ -28,7 +28,7 @@
     "nom": "sorori'tea",
     "secteur": "Salon de thé",
     "description": "Sorori'tea est un salon de thé qui privilégie le confort et l'apaisement de femmes en situation de stress, ce qui en fait un partenaire qui convient parfaitement à nos valeurs et à nos directives.",
-    "logo": ,
+    "logo": "SAe203-siteweb/img/sororitea.png",
     "site_web": "https://sorori'tea-fictif.fr"
   }
   {
@@ -36,7 +36,7 @@
     "nom": "comme chat",
     "secteur": "Infrastructure engagée dans la protection des animaux",
     "description": "comme chat combat les pratiques cruelles dans la cosmétologie envers les animaux.",
-    "logo": ,
+    "logo": "SAe203-siteweb/img/commechat.png",
     "site_web": "https://comme-chat-fictif.fr"
   }
 ]
