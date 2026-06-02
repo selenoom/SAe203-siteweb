@@ -30,7 +30,7 @@
   {
     "id": 4,
     "login": "directeur1",
-    "password": "HASH_A_GENERER",
+    "password": "$2y$10$QwPaO8uGxFiYcTeSdVeWbXaZ1Y2X3W4V5U6St0M6X9b7p4E5mRzKl",
     "nom": "Dubois",
     "prenom": "Sophie",
     "email": "sophie.dubois@novatech.fr",
