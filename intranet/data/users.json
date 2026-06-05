@@ -3,7 +3,7 @@
   {
     "id": 1,
     "login": "admin",
-    "password": "$2y$10$7R7XubK8p16Ym3MlhbCfZexLgZl7N1VvGzZ89b3Xh4E2901234567",
+    "password": "$2y$10$wK8gMCe3mC7Gux6a8w5Tce3VjS4Rj6mK99Y1vGzZ89b3Xh4E29012",
     "nom": "Administrateur",
     "prenom": "Super",
     "email": "admin@novatech.fr",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "login": "manager1",
-    "password": "$2y$10$u0M6X9b7p4E5mRzKlQwPaO8uGxFiYcTeSdVeWbXaZ1Y2X3W4V5U6S",
+    "password": "$2y$10$7hK3pX9zR8tQ6vL1wF0uOeAdGyHxCeSdVeWbXaZ1Y2X3W4V5U6StO",
     "nom": "Bernard",
     "prenom": "Claire",
     "email": "claire.bernard@novatech.fr",
@@ -21,7 +21,7 @@
   {
     "id": 3,
     "login": "employe1",
-    "password": "$2y$10$z1Y2X3W4V5U6St0M6X9b7p4E5mRzKlQwPaO8uGxFiYcTeSdVeWbXa",
+    "password": "$2y$10$E9V96YyBvNzD8zM1gHwRZuO5KxlP3t9S6f8q2jC1bVmWnLoKp1Gry",
     "nom": "Petit",
     "prenom": "Lucas",
     "email": "lucas.petit@novatech.fr",
