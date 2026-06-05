@@ -11,7 +11,9 @@ require_once '../../includes/functions.php';
 afficherHeaderEtNavbar();
 
 $usersFile = '../../data/users.json';
-$utilisateurs = lireJson('users.json');
+//$utilisateurs = lireJson('users.json');
+$utilisateurs = json_decode(file_get_contents($usersFile), true);
+
 $message = "";
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
