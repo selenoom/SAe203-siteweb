@@ -3,7 +3,7 @@ require_once '../../includes/auth.php';
 requireConnexion();
 
 if (!in_array('admin', $_SESSION['groupes'])) {
-    header('Location: ../../index.php');
+    header('Location: ../../menu.php');
     exit;
 }
 
@@ -35,8 +35,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     ];
 
     // Enregistrement dans le fichier JSON
-    $utilisateurs[] = $nouvelUser;
-    file_put_contents($usersFile, json_encode($utilisateurs, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+    $jsonString = json_encode($nouvelUser, JSON_PRETTY_PRINT);
+    // Ecriture dans le fichier
+    $fp = fopen($usersFile, 'w');
+    fwrite($fp, $jsonString);
+    fclose($fp);
     
     $message = "<div class='alert alert-success'>L'employé a bien été ajouté avec un mot de passe haché !</div>";
 }
