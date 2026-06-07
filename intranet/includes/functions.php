@@ -33,9 +33,9 @@ function afficherHeaderEtNavbar() {
             <div class="container-fluid">
                 <span class="navbar-brand fw-bold">Intranet </span>
                 <div>
-                    <a href="annuaire.php" class="btn btn-sm btn-outline-light me-2">Annuaire</a>
-                    <a href="fichiers.php" class="btn btn-sm btn-outline-light me-2">Documents</a>
-                    <a href="../logout.php" class="btn btn-sm btn-danger">Déconnexion</a>
+                    <a href="pages/annuaire.php" class="btn btn-sm btn-outline-light me-2">Annuaire</a>
+                    <a href="pages/fichiers.php" class="btn btn-sm btn-outline-light me-2">Documents</a>
+                    <a href="logout.php" class="btn btn-sm btn-danger">Déconnexion</a>
                 </div>
             </div>
         </nav>
