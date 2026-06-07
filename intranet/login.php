@@ -5,8 +5,8 @@ if (session_status() === PHP_SESSION_NONE) {
 require_once 'includes/functions.php';
 
 
-if (isset($_SESSION['user_id'])) { // si utilisateur est déjà connecté, on l'envoie à index.php
-    header('Location: index.php');
+if (isset($_SESSION['user_id'])) { // si utilisateur est déjà connecté, on l'envoie à menu.php
+    header('Location: menu.php');
     exit;
 }
 
@@ -23,7 +23,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $_SESSION['user_nom'] = $u['prenom'] . ' ' . $u['nom'];
             $_SESSION['groupes'] = $u['groupes'];
             
-            header('Location: index.php');
+            header('Location: menu.php');
             exit;
         }
     }
