@@ -35,13 +35,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     ];
 
     // Enregistrement dans le fichier JSON
-    //$jsonString = json_encode($nouvelUser, JSON_PRETTY_PRINT);
+    $jsonString = json_encode($nouvelUser, JSON_PRETTY_PRINT);
     // Ecriture dans le fichier
-    //$fp = fopen($usersFile, 'w');
-    //fwrite($fp, $jsonString);
-    //fclose($fp);
-    
-    file_put_contents($usersFile, json_encode($nouvelUser));
+    $fp = fopen($usersFile, 'w');
+    fwrite($fp, $jsonString);
+    fclose($fp);
     
     $message = "<div class='alert alert-success'>L'employé a bien été ajouté avec un mot de passe haché !</div>";
 }
