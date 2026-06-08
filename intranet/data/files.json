@@ -1,0 +1,18 @@
+[
+  {
+    "nom": "export_clients.csv",
+    "type": "csv"
+  },
+  {
+    "nom": "cr_reunion_infrastructure.txt",
+    "type": "txt"
+  },
+  {
+    "nom": "schema_infra.txt",
+    "type": "txt"
+  },
+  {
+    "nom": "catalogue.csv",
+    "type": "csv"
+  }
+]
