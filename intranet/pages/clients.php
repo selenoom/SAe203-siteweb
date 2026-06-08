@@ -1,7 +1,11 @@
 <?php
-require_once '../../includes/functions.php';
+require_once '../includes/functions.php';
 afficherHeaderEtNavbar();
-$clients = lireJson('clients.json');
+$clientsFile = '../data/clients.json';
+$clients = [];
+if (file_exists($clientsFile)) {
+    $clients = json_decode(file_get_contents($clientsFile), true) ?? [];
+}
 ?>
 
 <div class="container py-2">
