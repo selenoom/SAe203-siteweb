@@ -3,7 +3,7 @@ require_once '../includes/auth.php';
 if (session_status() === PHP_SESSION_NONE) { session_start(); }
 require_once '../includes/functions.php';
 
-// Correction chirurgicale du chemin vers data/
+// Correction du chemin vers data/
 $partnersPath = '../data/partners.json';
 $partenaires = file_exists($partnersPath) ? json_decode(file_get_contents($partnersPath), true) : [];
 ?>
